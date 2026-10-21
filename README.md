@@ -30,7 +30,7 @@
 Aplicación multiplataforma para una escuela de boxeo. Permite consultar horarios y gestionar reservas, aforo y tarifas; está pensada para que alumnos y responsables tengan una experiencia sencilla desde móvil o navegador.
 
 **Tecnologías:** React Native, Expo, JavaScript, Node.js, Express y SQLite.  
-**Demo web:** [ikigai.34-175-131-239.nip.io](https://ikigai.34-175-131-239.nip.io)
+
 
 ### 🌌 EXODIA — espacio social todo en uno
 
