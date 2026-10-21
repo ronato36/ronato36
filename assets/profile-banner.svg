@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="70" y1="20" x2="1100" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10162B"/>
+      <stop offset="0.58" stop-color="#171634"/>
+      <stop offset="1" stop-color="#102A35"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="270" y1="100" x2="850" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(363 0 0 270 890 70)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4" stop-opacity=".17"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#CBD5E1" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#glow)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#grid)"/>
+  <circle cx="1020" cy="172" r="118" stroke="url(#accent)" stroke-opacity=".35" stroke-width="1.5"/>
+  <circle cx="1020" cy="172" r="88" stroke="#A78BFA" stroke-opacity=".35" stroke-dasharray="3 9"/>
+  <path d="M934 172h172M1020 86v172M959 111l122 122M1081 111 959 233" stroke="#CBD5E1" stroke-opacity=".16"/>
+  <circle cx="1020" cy="172" r="44" fill="#10162B" stroke="url(#accent)" stroke-width="2"/>
+  <text x="1020" y="181" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="1" text-anchor="middle">RM</text>
+  <circle cx="1120" cy="88" r="5" fill="#5EEAD4"/>
+  <circle cx="922" cy="249" r="4" fill="#A78BFA"/>
+  <path d="M80 77h42" stroke="#5EEAD4" stroke-width="3" stroke-linecap="round"/>
+  <text x="80" y="129" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="2">RENATO MORELLI</text>
+  <text x="80" y="174" fill="#C4B5FD" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600" letter-spacing="3">DAM  /  DAW  /  DESARROLLO DE SOFTWARE</text>
+  <text x="80" y="221" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="17">Ideas que se convierten en aplicaciones útiles.</text>
+  <text x="80" y="257" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="2">WEB · MULTIPLATAFORMA · BACKEND</text>
+  <path d="M80 286h580" stroke="#CBD5E1" stroke-opacity=".18"/>
+  <circle cx="80" cy="286" r="3" fill="#5EEAD4"/>
+</svg>
